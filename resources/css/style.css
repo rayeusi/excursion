@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+
+/* Header Section */
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+/* Download Link */
+p, a {
+  color: Aquamarine;
+  font-size: 16px;
+}
